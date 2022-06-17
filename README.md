@@ -3,6 +3,7 @@
 Mentor Frontend - Solução de componente de classificação interativa
 Esta é uma solução para o desafio do componente de classificação interativa no Frontend Mentor . Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
+Verifique o resultado aqui: https://yagocoutto.github.io/interactive-rating-component-main/
 
 <h1> O desafio</h1>
 <h2>Os usuários devem ser capazes de:</h2>
