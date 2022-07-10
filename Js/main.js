@@ -21,6 +21,13 @@ function numberclick(event){
     });
     event.target.classList.add('active');
 }
+
+function numclick(n){
+    document.getElementById("result").innerHTML = n
+}
+
+
+
 console.log(numbersClass)
 
 
